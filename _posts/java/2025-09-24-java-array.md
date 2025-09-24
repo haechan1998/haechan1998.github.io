@@ -1,5 +1,5 @@
 ---
-title: "Java의 조건문과 반복문"
+title: "java의 배열"
 date: 2025-09-24 15:10:00 +0900
 categories: [Java]
 tags: [Java, Study]
