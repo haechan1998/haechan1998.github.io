@@ -38,7 +38,7 @@ int[] arr3 = {1, 2, 3, 4, 5};
 
 * 배열의 길이는 `.length` 로 확인 가능하다.
 
-아래 이미지 참고.
+*아래 이미지 참고.*
 
 <img src="/assets/img/java/javaArrayIndex.png" alt="Java인덱스" width="600"/>
 
